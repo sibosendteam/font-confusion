@@ -18,4 +18,4 @@
 </head>
 ````
 
-<span class="confused_font">confuse text</span>
+<span class="confused_font"><% ConfusedFont::getConfusedStr('confuse text') %></span>
