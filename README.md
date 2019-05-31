@@ -16,6 +16,7 @@
     @include('confusedFont')
     ......
 </head>
-````
-
+......
 <span class="confused_font"><% ConfusedFont::getConfusedStr('confuse text') %></span>
+......
+````
