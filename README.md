@@ -2,7 +2,7 @@
 
 ## Usage(for internal use only)
 
-1. composer require sibosend/font-confusion
+1. composer require sibosendteam/font-confusion
 2. add provider to config file app.php:
     `Sibosend\FontConfusion\FontConfusionServiceProvider`
 3. add Facade:
