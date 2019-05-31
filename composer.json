@@ -1,0 +1,20 @@
+{
+    "name": "sibosend/font-confusion",
+    "type": "library",
+    "authors": [
+        {
+            "name": "taoyun",
+            "email": "taoyun@oa.haoli58.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sibosend\\FontConfusion\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
